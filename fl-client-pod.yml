@@ -31,7 +31,7 @@ spec:
             - name: REPO_URL
               value: "https://github.com/jinsoogod/gc_fl_client.git"
             - name: GIT_TAG
-              value: "master"
+              value: "main"
             - name: GRPC_POLL_STRATEGY
               value: "epoll1"
             - name: MY_POD_ID
